@@ -1,5 +1,7 @@
 # Hello, I'm Hiroki Shinoda
 
+[![kaggle-badge](https://img.shields.io/badge/Kaggle-Hiro-20BEFF?logo=kaggle)](https://www.kaggle.com/hirokishinoda) [![gmail](https://img.shields.io/badge/Gmail-progac27jhisi@gmail.com-EA4335?logo=Gmail)](mailto:progac27jhisi@gmail.com)
+
 ## My Activity
 <p align=left>
 <img alt='Top lang' height=150px src=https://github-readme-stats.vercel.app/api/top-langs/?username=hirokishinoda&layout=compact />
