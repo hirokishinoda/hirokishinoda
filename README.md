@@ -7,7 +7,7 @@
 </p>
 
 ## Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=hirokishinoda&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hirokishinoda&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## Language and Tools
 ### Data science
